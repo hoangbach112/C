@@ -1,6 +1,6 @@
 [Project]
-FileName=Lession1.dev
-Name=Lession1
+FileName=bai2.dev
+Name=bai2
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main.c
+FileName=bai2.c
 CompileCpp=0
 Folder=
 Compile=1
